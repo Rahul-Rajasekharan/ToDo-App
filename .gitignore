@@ -13,7 +13,7 @@
 
 # misc
 .DS_Store
-.env.local
+.env.local/Users/rahulsekhar/React Project-1/ToDo/node_modules
 .env.development.local
 .env.test.local
 .env.production.local
